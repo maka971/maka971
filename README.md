@@ -1,3 +1,4 @@
+<img width="2169" height="725" alt="image" src="https://github.com/user-attachments/assets/51837268-6641-4b31-84a5-604ea1514746" />
 ## Hi there, I'm sulah mutyaba 👋
 
 <div align="center">
