@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-📍 Dubai, UAE &nbsp;•&nbsp; 🇺🇬 Ugandan National &nbsp;•&nbsp; 🛂 UAE Residence Visa (Own Sponsorship) &nbsp;•&nbsp; ✅ Immediately Available
+📍 Dubai, UAE &nbsp;•&nbsp; 🛂 UAE Residence Visa (Own Sponsorship) &nbsp;•&nbsp; ✅ Immediately Available
 </p>
 
 ---
@@ -26,14 +26,14 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 
 When I'm not working with data, I enjoy creating content, hiking, and mentoring others. I love the "aha!" moment when data reveals something new and useful.
 
-### [🏆 Check Out My Projects](https://github.com/maka971?tab=repositories)
+### [🏆 Check Out My Projects](https://github.com/maka971?tab=repositories) &nbsp;|&nbsp; [🌐 See Them Live on My Portfolio](https://sulahportifolio.framer.website/)
 
 ---
 
 ## 🔭 What I'm Currently Working On
 
-- **Project A:** Building an end-to-end marketing analytics case study in Python & Power BI (ShopEasy dataset).
-- **Project B:** Writing SQL queries for sales performance analysis using window functions and CTEs.
+- **PL-300 Certification:** Preparing for the Microsoft Power BI Data Analyst exam.
+- **Active Job Search:** Applying for Data Analyst and BI roles across Real Estate, FinTech, and FMCG in the UAE.
 - **Content Creation:** Documenting my data analyst learning journey and project breakdowns on GitHub.
 
 ## 🌱 Currently Learning
@@ -132,6 +132,10 @@ Diagnosed declining conversion and engagement for an online retailer — SQL sta
 `Python` `Pandas` `Matplotlib` `Jupyter`
 EDA on a 20-product e-commerce dataset, surfacing category investment priorities and a mid-range pricing gap via tag-frequency analysis.
 
+#### 🗃️ [SQL Retail Sales Analysis](https://github.com/maka971/SQL_RETAIL_SALES_P1)
+`SQL` `PostgreSQL` `Window Functions` `CTEs`
+Database setup, data cleaning, and 10 business-question queries covering top customers, category performance, sales shifts, and monthly trends.
+
 #### 💬 NLP Customer Sentiment & RFM Segmentation
 `Python` `TextBlob` `VADER` `T-SQL` `Power BI`
 Sentiment classification on 1,363+ reviews plus a T-SQL RFM segmentation model for targeted retention campaigns.
@@ -155,6 +159,7 @@ Automated audit of 398 employee records, identifying duplicates, missing fields,
 ## 🎓 Education
 
 **Bachelor of Business Administration (BBA)** — Makerere University, Kampala, Uganda — *2021*
+<br>
 **Business Analytics Certificate (KHDA Approved)** — Edoxi Training Institute, Dubai, UAE — *2025*
 
 ---
@@ -164,5 +169,5 @@ Automated audit of 398 employee records, identifying duplicates, missing fields,
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=maka971&label=Profile%20Views&color=0077B5&style=for-the-badge" alt="Profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=maka971.maka971" alt="Profile views" />
 </p>
