@@ -13,16 +13,18 @@
 </p>
 
 <p align="center">
-📍 Dubai, UAE &nbsp;•&nbsp; 🛂 UAE Residence Visa (Own Sponsorship) &nbsp;•&nbsp; ✅ Immediately Available
+📍 Dubai, UAE &nbsp;•&nbsp; 🛂 UAE Residence Visa (Own Sponsorship) &nbsp;•&nbsp; ✅ Immediately Available &nbsp;•&nbsp; 🌍 Open to Remote Contract Work
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a Business Intelligence Analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future. With 3+ years of experience across UAE fintech, real estate, and customer operations, I've turned everything from CRM data to customer reviews into decisions leadership can act on.
+My focus is on building dashboards that get used, validating data so reports can be trusted, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future. With 3+ years of experience across UAE fintech, real estate, and customer operations, I've turned everything from CRM data to customer reviews into decisions leadership can act on.
+
+I'm also interested in applying analytical reasoning and technical validation to remote BI and AI model evaluation projects.
 
 When I'm not working with data, I enjoy creating content, hiking, and mentoring others. I love the "aha!" moment when data reveals something new and useful.
 
@@ -33,7 +35,7 @@ When I'm not working with data, I enjoy creating content, hiking, and mentoring 
 ## 🔭 What I'm Currently Working On
 
 - **PL-300 Certification:** Preparing for the Microsoft Power BI Data Analyst exam.
-- **Active Job Search:** Applying for Data Analyst and BI roles across Real Estate, FinTech, and FMCG in the UAE.
+- **Active Job Search:** Applying for Data Analyst and BI roles across Real Estate, FinTech, and FMCG in the UAE, as well as remote, contract, and project-based opportunities.
 - **Content Creation:** Documenting my data analyst learning journey and project breakdowns on GitHub.
 
 ## 🌱 Currently Learning
@@ -70,6 +72,9 @@ When I'm not working with data, I enjoy creating content, hiking, and mentoring 
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
   <img src="https://img.shields.io/badge/RFM%20Segmentation-Experienced-FFB347?style=flat" alt="RFM Segmentation Skill Badge">
   <img src="https://img.shields.io/badge/NLP%20Sentiment%20Analysis-Experienced-9B59B6?style=flat" alt="NLP Sentiment Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/Data%20Warehousing%20%26%20ETL-Experienced-1ABC9C?style=flat" alt="Data Warehousing and ETL Skill Badge">
+  <img src="https://img.shields.io/badge/Data%20Quality%20%26%20Governance-Experienced-E67E22?style=flat" alt="Data Quality and Governance Skill Badge">
+  <img src="https://img.shields.io/badge/CRM%20Analytics-Experienced-3498DB?style=flat" alt="CRM Analytics Skill Badge">
 </p>
 
 ---
@@ -80,13 +85,15 @@ When I'm not working with data, I enjoy creating content, hiking, and mentoring 
 - Developed and maintained interactive Power BI dashboards tracking real estate KPIs (lead generation, lead-to-sale conversion, agent productivity, property inventory, sales pipeline), giving senior leadership real-time revenue visibility.
 - Conducted a Python (Pandas) HR data quality audit on 398 employee records, detecting duplicate entries, missing fields, expired visas, and compliance gaps.
 - Designed automated reporting pipelines using Python, SQL, Excel, and Power BI, reducing manual data overhead by ~50%.
-- Administered and optimized Bitrix24 CRM for 50+ users across Sales, HR, and Management.
+- Administered and optimized Bitrix24 CRM data and user access for 50+ users across Sales, HR, and Management, supporting data integrity and reliable sales pipeline reporting.
+- Supported marketing reporting workflows and lead-data integrations involving Zapier, Google Ads, and Meta Lead Ads.
 
 **Data Analyst & BI Developer** — *Independent Analytics Projects, Dubai, UAE* &nbsp;|&nbsp; Jan 2025 – Present
 - Designed and deployed Power BI executive dashboards on a $44M+ sales dataset with advanced DAX measures and YoY/MoM trend analysis.
 - Automated Excel reporting workflows via Power Query and VBA, reducing manual reporting effort by ~60%.
 - Performed NLP sentiment analysis on 1,363+ customer reviews using Python (TextBlob/VADER).
 - Built T-SQL solutions using CTEs, window functions, and RFM segmentation for customer behaviour analysis.
+- Developed a SQL Server data warehouse covering ETL, dimensional modeling, and data preparation for analytical reporting.
 
 **Customer Support Specialist & Data Reporting Analyst** — *Astra Tech, Dubai, UAE* &nbsp;|&nbsp; Apr 2022 – Feb 2025
 - Monitored and synthesized 5+ contact center KPIs (SLA, AHT, CSAT, FCR, Occupancy) across a GCC-wide fintech operation serving 100,000+ customers.
@@ -99,8 +106,10 @@ When I'm not working with data, I enjoy creating content, hiking, and mentoring 
 
 **Data Analyst & IT Specialist Intern** — *Housess Real Estate, Dubai, UAE*
 - Performed advanced lead conversion analytics across CRM datasets to pinpoint high-performing traffic sources, optimize sales funnels, and boost agent follow-up velocity.
-- Designed a custom multi-sheet Excel audit matrix with data completeness scoring.
+- Designed a custom multi-sheet Excel audit matrix with data completeness scoring, document-expiry alerts, and departmental analysis to support management decisions.
+- Investigated data discrepancies and escalated data governance and information-security concerns to the appropriate stakeholders.
 - Identified and escalated a critical plain-text password storage vulnerability within the database framework, guiding the IT remediation process.
+- Communicated data quality findings and reporting requirements to business stakeholders in a structured format.
 - Managed employee onboarding/offboarding (M365, Outlook, device setup) and trained staff on Bitrix24.
 
 **Data Analyst & BI Developer** — *Independent Analytics Projects*
@@ -118,7 +127,11 @@ When I'm not working with data, I enjoy creating content, hiking, and mentoring 
 
 #### 📊 [End-to-End Sales Analytics Dashboard](https://github.com/maka971/End-to-end-sales-data-project-)
 `Power BI` `SQL Server` `DAX` `Power Query` `Excel`
-Star-schema warehouse from a $44M+ transactional dataset, with 6 DAX measures across 4 dashboard views (Executive Summary, Sales Performance, Customer Analysis, Geographic Map).
+Star-schema warehouse from a $44M+ transactional dataset, with 6 DAX measures across 4 dashboard views (Executive Summary, Sales Performance, Customer Analysis, Geographic Map), including KPI cards, sales-versus-budget analysis, year-over-year comparisons, and drill-through reporting.
+
+#### 🏗️ [SQL Server Data Warehouse](https://github.com/maka971/Data_warehouse_SQL)
+`SQL Server` `SQL` `ETL` `Data Modeling`
+Data warehouse project covering data integration, transformation, and dimensional modeling to prepare structured datasets for downstream BI reporting.
 
 #### 🛍️ [Retail Sales Analysis & Prediction](https://github.com/maka971/Retail-Sales-Analysis-and-Prediction)
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn`
@@ -138,11 +151,11 @@ Database setup, data cleaning, and 10 business-question queries covering top cus
 
 #### 💬 NLP Customer Sentiment & RFM Segmentation
 `Python` `TextBlob` `VADER` `T-SQL` `Power BI`
-Sentiment classification on 1,363+ reviews plus a T-SQL RFM segmentation model for targeted retention campaigns.
+Sentiment classification on 1,363+ reviews, organized into interpretable themes, plus a T-SQL RFM segmentation model for targeted retention campaigns.
 
-#### 🗂️ HR Data Quality Audit
+#### 🗂️ HR Data Quality & Compliance Audit
 `Python` `Pandas` `Excel`
-Automated audit of 398 employee records, identifying duplicates, missing fields, and compliance gaps.
+Automated audit of 398 employee records, identifying duplicates, missing fields, documentation gaps, and compliance issues, with completeness indicators, exception tracking, and document-expiry alerts.
 
 ---
 
@@ -158,14 +171,14 @@ Automated audit of 398 employee records, identifying duplicates, missing fields,
 
 ## 🎓 Education
 
-**Bachelor of Business Administration (BBA)** — Makerere University, Kampala, Uganda — *2021*
+**Bachelor of Business Administration (BBA)** — Makerere University, Kampala, Uganda — *2018 – 2021*
 <br>
-**Business Analytics Certificate (KHDA Approved)** — Edoxi Training Institute, Dubai, UAE — *2025*
+**Business Analytics Certificate (KHDA Approved)** — Edoxi Training Institute, Dubai, UAE — *Mar 2025 – May 2026*
 
 ---
 
 <p align="center">
-💬 Open to <b>Data Analyst</b> and <b>BI Analyst</b> opportunities in Real Estate, FinTech, and FMCG across the UAE.
+💬 Open to <b>Data Analyst</b> and <b>BI Analyst</b> opportunities in Real Estate, FinTech, and FMCG across the UAE, plus remote, contract, and project-based work.
 </p>
 
 <p align="center">
